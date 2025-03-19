@@ -77,7 +77,7 @@ Todo el tráfico permitido (0.0.0.0/0).
 Acceso por navegador: http://tu_ip_publica:5173
 Capturas en README de tu web y la de un compañero -->
  [Foto33](../imagenes/Foto33.png);  Verificamos el servidor web;
- [Foto34](../imagenes/Foto34.png); [Foto35](../imagenes/Foto35.png); Pagina web a traves de el servidor vite; [Foto42](../imagenes/Foto42.png);
+ [Foto34](../imagenes/Foto34.png); [Foto35](../imagenes/Foto35.png); Pagina web a traves de el servidor vite; [Foto42](../imagenes/Foto42.png); [Foto43](../imagenes/Foto43.png);
  
 
 <!--Realizar un Pull Request al repositorio del compañero con revision constructiva -->
