@@ -76,6 +76,13 @@ Todo el tráfico permitido (0.0.0.0/0).
 <!--Probar el acceso web:
 Acceso por navegador: http://tu_ip_publica:5173
 Capturas en README de tu web y la de un compañero -->
+ [Foto33](../imagenes/Foto33.png);  Verificamos el servidor web;
+ [Foto34](../imagenes/Foto34.png); [Foto35](../imagenes/Foto35.png); Pagina web a traves de el servidor vite; [Foto42](../imagenes/Foto42.png);
+ 
+
+<!--Realizar un Pull Request al repositorio del compañero con revision constructiva -->
+ [Foto36](../imagenes/Foto36.png); [Foto37](../imagenes/Foto37.png); [Foto38](../imagenes/Foto38.png);
+ [Foto39](../imagenes/Foto39.png); [Foto40](../imagenes/Foto40.png);[Foto41](../imagenes/Foto41.png);
 
 
 
